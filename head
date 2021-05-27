@@ -1,0 +1,1 @@
+apt-get install gawk make xz-utils gcc make gcc pkg-config git mlocate htop -y
